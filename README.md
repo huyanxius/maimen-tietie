@@ -4,7 +4,7 @@
 
 ![麦门贴贴](docs/stickers/img/hero.png)
 
-**[网页地址（待发布）→](https://huyanxius.github.io/maimen-tietie/)** 不用登录，答 5 道题，当场拿到一套贴纸。
+**[在线玩一下 →](https://huyanxius.github.io/maimen-tietie/)** 不用登录，答 5 道题，当场拿到一套贴纸。
 
 **当前验证范围：**问答模式、规范化示例订单、本地脚本及浏览器 PNG/ZIP 导出已完成验证；没有可用 Token，本次跳过真实麦当劳 MCP 联调。下方 MCP 调用流程是已实现的 Skill 工作流说明，不是已经成功调用的证据，也不代表已满足比赛的真实 MCP 使用资格。最终进度见 [plans/STATUS.md](plans/STATUS.md)。
 
