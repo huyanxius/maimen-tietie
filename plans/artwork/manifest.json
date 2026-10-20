@@ -1,0 +1,919 @@
+[
+  {
+    "id": "burger-ok",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-3dd05dc3-cb96-4904-85a9-f0486e103fd8.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "a218d625867c8b7d57faf25ac75bac7deed6215f40c5fec8bfefb30f5adddce8",
+    "final_path": "docs/stickers/img/burger-ok.png",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 290605,
+    "sha256": "5cddb00ba43ce57f1c5932161c9d28a051b728639943dfb85f1c7e8abe159689",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      19,
+      1236,
+      1228
+    ],
+    "opaque_bbox": [
+      168,
+      133,
+      1105,
+      1122
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      37,
+      51,
+      494,
+      461
+    ],
+    "final_opaque_bbox": [
+      69,
+      54,
+      451,
+      458
+    ],
+    "transparent_pixel_fraction": 0.5547
+  },
+  {
+    "id": "burger-go",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/burger-go.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-72d31501-5664-4b87-b29b-f7a463654239.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "8ed1e3b9e584580939d856aac09e03c3a060f5c7a076607910cd89c09c9359d3",
+    "final_path": "docs/stickers/img/burger-go.png",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 262360,
+    "sha256": "aa4ed3cc113df5dcffae4d4f397e02f4394ebeb75cf594dc913e0f86e3374e42",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      25,
+      1166,
+      1243
+    ],
+    "opaque_bbox": [
+      131,
+      159,
+      1154,
+      1078
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      29,
+      41,
+      476,
+      488
+    ],
+    "final_opaque_bbox": [
+      54,
+      65,
+      471,
+      440
+    ],
+    "transparent_pixel_fraction": 0.6109
+  },
+  {
+    "id": "fries-ok",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/fries-ok.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-c518b563-7374-433f-bdc8-6dea919e825a.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "0b97ec03d8fbf0f476fb813d6c746c78f18cbc462f070d05028164ebebbadbd6",
+    "final_path": "docs/stickers/img/fries-ok.png",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 260026,
+    "sha256": "47cc9e6731d5edd0a082a0f960af6c27ea881475b79188046568644ebd1c6d92",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      85,
+      1200,
+      1230
+    ],
+    "opaque_bbox": [
+      198,
+      120,
+      1114,
+      1126
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      43,
+      43,
+      482,
+      498
+    ],
+    "final_opaque_bbox": [
+      81,
+      49,
+      455,
+      460
+    ],
+    "transparent_pixel_fraction": 0.5766
+  },
+  {
+    "id": "trait-early-bird",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-early-bird.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-86a5390b-cd2b-4aa4-bf39-461f2218ac9e.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "2ca82639936c2017df2ba21c7624c3d01bb35787a1dc01374dbece16f604b160",
+    "final_path": "docs/stickers/img/trait-early-bird.png",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 244424,
+    "sha256": "ff83578906e483e6a316091948409740f7863244d8be8ec4684215e17f317f9f",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      20,
+      1244,
+      1192
+    ],
+    "opaque_bbox": [
+      126,
+      208,
+      1165,
+      1067
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      36,
+      26,
+      507,
+      449
+    ],
+    "final_opaque_bbox": [
+      51,
+      85,
+      476,
+      436
+    ],
+    "transparent_pixel_fraction": 0.6296
+  },
+  {
+    "id": "trait-night-owl",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-night-owl.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-f4616fe0-0dd0-48ff-aa5b-d220800401fd.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "90b662cf5e375cc2f1de51427ae2bd313289643517f141e011b6115fa55b48e6",
+    "final_path": "docs/stickers/img/trait-night-owl.png",
+    "mechanical_padding_px": 15,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 213155,
+    "sha256": "88dfe4315439b6599a5b4d5c9b75d1cbef4528fdb12895f0e6777bacd63e92bf",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      33,
+      20,
+      1240,
+      1190
+    ],
+    "opaque_bbox": [
+      221,
+      114,
+      1116,
+      1129
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      51,
+      48,
+      472,
+      480
+    ],
+    "final_opaque_bbox": [
+      94,
+      51,
+      451,
+      456
+    ],
+    "transparent_pixel_fraction": 0.6798
+  },
+  {
+    "id": "trait-fries-loyalist",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-fries-loyalist.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-0d15fd5d-ebe6-49e8-8f75-f79ba10dd650.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "4a3a7c5a68a5b8c4974521c90c3578dfdc540c770f6fe25706add122e5e25ca5",
+    "final_path": "docs/stickers/img/trait-fries-loyalist.png",
+    "mechanical_padding_px": 55,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 196873,
+    "sha256": "3ab1a089ab1f31f67c9c0499ce3e93f079545e98a8b876f9f8544019b5985cbb",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      25,
+      1234,
+      1254
+    ],
+    "opaque_bbox": [
+      118,
+      188,
+      1172,
+      1057
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      53,
+      52,
+      484,
+      486
+    ],
+    "final_opaque_bbox": [
+      65,
+      91,
+      460,
+      417
+    ],
+    "transparent_pixel_fraction": 0.6896
+  },
+  {
+    "id": "trait-spicy",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-spicy.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-9320ccc5-7cba-40b5-b6a9-755ea7f08e18.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "46f962576971ce1562b50e4a42df6b639175aedb02b370f9478b70741e75fbec",
+    "final_path": "docs/stickers/img/trait-spicy.png",
+    "mechanical_padding_px": 31,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 227381,
+    "sha256": "79fe996b5559cf6c5af8df4a680fe4e2ea46a2e33ac6b49777dcc36e36e255a7",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      12,
+      1248,
+      1254
+    ],
+    "opaque_bbox": [
+      114,
+      197,
+      1153,
+      1084
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      18,
+      17,
+      470,
+      487
+    ],
+    "final_opaque_bbox": [
+      57,
+      89,
+      461,
+      434
+    ],
+    "transparent_pixel_fraction": 0.6646
+  },
+  {
+    "id": "trait-group-host",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-group-host.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-af9341a7-d193-443c-a559-738e773a6673.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "b332e8148e823b1de1cbed97604f269b2a371857ae9e3a00601f587cbbca6985",
+    "final_path": "docs/stickers/img/trait-group-host.png",
+    "mechanical_padding_px": 132,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 172239,
+    "sha256": "41ca249ee4a1433829cf790b96d457409524e33153e5904821e08a325d22e470",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      17,
+      1253,
+      1232
+    ],
+    "opaque_bbox": [
+      37,
+      293,
+      1234,
+      986
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      54,
+      51,
+      467,
+      448
+    ],
+    "final_opaque_bbox": [
+      57,
+      143,
+      461,
+      377
+    ],
+    "transparent_pixel_fraction": 0.7491
+  },
+  {
+    "id": "trait-coffee-lover",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-coffee-lover.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-dbf30faa-eca1-4449-9905-6d97d418daca.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "ab7a717ec521f2cae083d68d6d85fa13d1f8b4d77cf12a77c4cedd7a71dca3b2",
+    "final_path": "docs/stickers/img/trait-coffee-lover.png",
+    "mechanical_padding_px": 68,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 166201,
+    "sha256": "1169468d60eb4fb39fdfe48e8faf42f11e16a3a4505cb7640b7916d6fc0648b7",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      19,
+      66,
+      1176,
+      1220
+    ],
+    "opaque_bbox": [
+      243,
+      71,
+      989,
+      1167
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      33,
+      49,
+      392,
+      473
+    ],
+    "final_opaque_bbox": [
+      114,
+      51,
+      389,
+      455
+    ],
+    "transparent_pixel_fraction": 0.754
+  },
+  {
+    "id": "trait-sweet-tooth",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-sweet-tooth.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-7d851ff0-6c8c-49bd-b451-9aeafc594772.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "2ff144736c081fdaef8daa6005bd00136dbec8b4d20245383da35f462f0d81ee",
+    "final_path": "docs/stickers/img/trait-sweet-tooth.png",
+    "mechanical_padding_px": 77,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 184473,
+    "sha256": "72f5fa067469e97fdb369032b534dfe71abac6970545f13ba3dc64c124b0b4ee",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      49,
+      56,
+      1194,
+      1238
+    ],
+    "opaque_bbox": [
+      64,
+      153,
+      1189,
+      1128
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      48,
+      48,
+      463,
+      475
+    ],
+    "final_opaque_bbox": [
+      51,
+      83,
+      461,
+      438
+    ],
+    "transparent_pixel_fraction": 0.7183
+  },
+  {
+    "id": "trait-weekend",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/trait-weekend.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-fba0e9b0-28de-4e58-b5c8-f6ee1ecb3e55.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "4b3d5bf316674a365bf922a03d3a6d88b03df136f7632b59c7b5cf52ad762471",
+    "final_path": "docs/stickers/img/trait-weekend.png",
+    "mechanical_padding_px": 52,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 200614,
+    "sha256": "a00a4d8ff5e65f0d33e8c58af8b10ae92c22f7bd9f3027786c7649ec04a77f98",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      19,
+      1234,
+      1238
+    ],
+    "opaque_bbox": [
+      168,
+      84,
+      1153,
+      1140
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      80,
+      46,
+      457,
+      459
+    ],
+    "final_opaque_bbox": [
+      83,
+      51,
+      454,
+      450
+    ],
+    "transparent_pixel_fraction": 0.6988
+  },
+  {
+    "id": "burger-hungry",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/burger-hungry.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-480acb28-d27f-4a00-9abb-f912671ee036.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "fe0a9d898bd03b5e659297304e32531fdeb17fc660d7b200f2f45ce816252bf1",
+    "final_path": "docs/stickers/img/burger-hungry.png",
+    "mechanical_padding_px": 23,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 275654,
+    "sha256": "3636a864e77e929ecb92555b191037b7700a502fcd7c285c5ace6f30a28a9d57",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      35,
+      1210,
+      1254
+    ],
+    "opaque_bbox": [
+      109,
+      169,
+      1147,
+      1076
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      35,
+      42,
+      464,
+      503
+    ],
+    "final_opaque_bbox": [
+      52,
+      76,
+      461,
+      433
+    ],
+    "transparent_pixel_fraction": 0.5691
+  },
+  {
+    "id": "burger-night",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/burger-night.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-b19b0639-ef71-46ba-96ab-d6d53aa76071.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "1e5a0b1a70ef9d6fd04053684ab186f2808635dc85a915df325cae5c579493b6",
+    "final_path": "docs/stickers/img/burger-night.png",
+    "mechanical_padding_px": 32,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 215552,
+    "sha256": "843603741092b17786b7d551255ab9db82d4dc885952cb2ca897de745c104932",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      24,
+      1216,
+      1254
+    ],
+    "opaque_bbox": [
+      128,
+      208,
+      1154,
+      1077
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      22,
+      25,
+      463,
+      494
+    ],
+    "final_opaque_bbox": [
+      62,
+      93,
+      461,
+      431
+    ],
+    "transparent_pixel_fraction": 0.6622
+  },
+  {
+    "id": "fries-go",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/fries-go.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-c5c8872d-9ef7-4d56-aff4-efbebfa8f57b.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "f76b09e0991d65154a17758ee80349db361c63909ad68f9483abe75369392436",
+    "final_path": "docs/stickers/img/fries-go.png",
+    "mechanical_padding_px": 31,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 204182,
+    "sha256": "99b623e4c1deff7422af89ae89e08ab5147c09ce946a525e31b9339d09578bc0",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      33,
+      101,
+      1234,
+      1254
+    ],
+    "opaque_bbox": [
+      137,
+      175,
+      1153,
+      998
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      50,
+      65,
+      492,
+      466
+    ],
+    "final_opaque_bbox": [
+      65,
+      80,
+      461,
+      401
+    ],
+    "transparent_pixel_fraction": 0.6786
+  },
+  {
+    "id": "fries-hungry",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/fries-hungry.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-9c3e397b-bff8-45e6-866b-8d609e93eff4.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "a3f6859d1b0e109a4aacbf36bb4f3a209961422dd13e2ca75de6227f10af31ad",
+    "final_path": "docs/stickers/img/fries-hungry.png",
+    "mechanical_padding_px": 0,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 259361,
+    "sha256": "018970535ee23b5d56ea6f1aec46f72898221f05c0ca297e68f07f55df539f23",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      23,
+      1242,
+      1254
+    ],
+    "opaque_bbox": [
+      156,
+      143,
+      1089,
+      1085
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      0,
+      56,
+      507,
+      509
+    ],
+    "final_opaque_bbox": [
+      64,
+      58,
+      445,
+      443
+    ],
+    "transparent_pixel_fraction": 0.5779
+  },
+  {
+    "id": "fries-night",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/fries-night.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-a77a4cb7-d595-403b-adc5-b18c7654f91e.png",
+    "original_dimensions": [
+      1254,
+      1254
+    ],
+    "original_sha256": "9d4d67d6e6d8f38e89be5a56f45e2b6a7f0e9f1cdca8b60f83f2c9b3a4878084",
+    "final_path": "docs/stickers/img/fries-night.png",
+    "mechanical_padding_px": 87,
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 179578,
+    "sha256": "12dc7f9ebba4cc6faaa92777a05c6dcc1d048d01dc180c4607e687512484ff5f",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      23,
+      1206,
+      1254
+    ],
+    "opaque_bbox": [
+      82,
+      265,
+      1198,
+      1011
+    ],
+    "review": "Actual pixels inspected: story readable; original unbranded character, no text; continuous white paper edge; matte grain; usable margins.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      49,
+      49,
+      463,
+      446
+    ],
+    "final_opaque_bbox": [
+      61,
+      126,
+      461,
+      394
+    ],
+    "transparent_pixel_fraction": 0.7188
+  },
+  {
+    "id": "hero",
+    "generator": "built-in image_gen",
+    "original_path": "/tmp/maimen-tietie-cloud/artwork/originals/hero.png",
+    "generated_path": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-c2623514-4104-450a-b3f2-8753ed733f4c.png",
+    "original_dimensions": [
+      1586,
+      992
+    ],
+    "original_sha256": "e2e3134249602796930fd23d66c552e4fde134a805d50025526769713e30de54",
+    "final_path": "docs/stickers/img/hero.png",
+    "mechanical_padding_px": [
+      151,
+      94
+    ],
+    "dimensions": [
+      1600,
+      1000
+    ],
+    "bytes": 1395621,
+    "sha256": "dcb6f047b2afbb58b91d1237c9b7b4f8d3fda6b9553241e007dd6bc00bbba286",
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      7,
+      1508,
+      992
+    ],
+    "opaque_bbox": [
+      207,
+      25,
+      1430,
+      968
+    ],
+    "review": "Actual pixels inspected: all six established characters, no duplicates, no text/logo; coherent matte print texture and separate white edges. Native 1586x992 original was mechanically padded to1888x1180 and downsampled to1600x1000; no upscaling from thumbnail.",
+    "final_alpha_extrema": [
+      0,
+      255
+    ],
+    "final_alpha_bbox": [
+      128,
+      86,
+      1406,
+      920
+    ],
+    "final_opaque_bbox": [
+      303,
+      101,
+      1340,
+      900
+    ],
+    "transparent_pixel_fraction": 0.6241
+  }
+]

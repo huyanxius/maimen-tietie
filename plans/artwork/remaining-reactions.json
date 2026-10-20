@@ -1,0 +1,585 @@
+{
+  "mode": "built-in imagegen",
+  "scope": "remaining 16 character reactions",
+  "assets": [
+    {
+      "name": "nuggets-ok",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-c266cdbe-7d38-493a-ae62-2e3ac9177c81.png",
+      "prompt": "Use case: illustration-story. Make ONE playful die-cut paper sticker, matching this current series exactly.\nREFERENCE ROLES in actual upload order: Image 1 is the finished burger sticker and is STYLE ONLY: preserve its matte gouache/colored-pencil paper grain, warm restrained palette, narrow white cut edge, charcoal ink limbs, two tiny dark oval eyes, coral cheeks, no glossy surface. Do not copy the burger body or sesame. Image 2 is the NUGGET CHARACTER identity: preserve this exact irregular plump golden chicken nugget silhouette, warm pale center, crisp orange flecks, face scale and coral cheeks, same simple charcoal arms and feet. The flashlight, moon, stars and surprised mouth in Image 2 are scene props and expression, NOT permanent identity; omit them.\nTHIS LITTLE STORY: the nugget stands upright and gives a very serious salute, but a tiny loose crispy top flap/crumb tuft has slid down over half its forehead. The nugget's visible eye and small straight mouth remain comically determined and serious. One hand at the brow, the other at its side, stable compact pose, two short feet. Subtle two-stroke surprise accent near the slipped crust only. Do not add a separate cloth hat, clothes or packaging.\nPAPER AND OUTPUT: flat front-facing printed paper, subtle tactile matte grain, narrow continuous white die-cut edge about 1.5% of canvas around complete character and small accent. One compact centered scene, 10% clear margins, readable at 160–240px. Requested canvas 1024x1024 PNG with genuine transparent alpha outside sticker. NO text of any kind, letters, logo, M, golden arches, watermark, caption, background rectangle, tabletop, floor shadow, realistic food photo, CGI, glossy rubber or toy.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-f4616fe0-0dd0-48ff-aa5b-d220800401fd.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/nuggets-ok.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "561937dca5d69e006c35c50c95b08a02fbe6f50e11b2b00cc1cbd0f5cb85e94c",
+      "final": "docs/stickers/img/nuggets-ok.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        17,
+        39,
+        429,
+        467
+      ],
+      "fully_transparent_pixels": 160821,
+      "bytes": 257126,
+      "sha256": "11692a222e4f358f74d561db0e7c0a481a7408e83544cd12357f79557c47e543",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "nuggets-go",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-c2dbf56a-3f82-4e4d-9faa-ac6a41e07236.png",
+      "prompt": "Use case: illustration-story. Make ONE playful die-cut paper sticker in this existing series.\nREFERENCE ROLES in upload order: Image 1 finished burger is STYLE ONLY: matte gouache/color-pencil texture, restrained warm palette, narrow white die-cut edge, tiny charcoal oval eyes and ink limbs, coral cheeks. Do not copy the burger body or sesame. Image 2 is NUGGET IDENTITY ONLY: preserve its one plump irregular golden chicken nugget body, warm pale center, crisp orange flecks, same face scale, tiny oval eyes, coral cheeks and charcoal arms/feet. Do not keep the flashlight, moon, stars, or surprised expression from that scene. Normal nugget has no hat/clothes.\nPAPER: flat front-facing matte printed paper, subtle tactile grain, narrow continuous white die-cut edge 1.5% canvas around complete scene, centered compact composition, 10% clear transparent margins, readable at 160–240px. Requested 1024x1024 PNG, genuine transparent alpha outside sticker. No letters, text, captions, logo, M, golden arches, watermark, card, background scene, floor shadow, food photography, CGI, rubber or toy material.\nSTORY: the SAME nugget has run up and is now leaping diagonally forward, one knee lifted, opposite leg stretched behind, arms pumping, small mouth firm and oval eyes focused ahead. One tiny crispy breadcrumb has accidentally fallen behind it, with two small motion strokes, but it keeps a very determined expression. Strong energetic airborne silhouette, only one loose crumb, no shoes or clothing.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/tmp/maimen-tietie-cloud/artwork/originals/trait-night-owl.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/nuggets-go.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "eae556fd28dab49d5a7511fa9c5389c2288b5ebf6a3543455a26cec67747c641",
+      "final": "docs/stickers/img/nuggets-go.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        16,
+        55,
+        475,
+        487
+      ],
+      "fully_transparent_pixels": 172852,
+      "bytes": 229670,
+      "sha256": "0d04d2cdd082846e472424f23e50f47415062d2cdee7d27c7558705a8eeaa106",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "nuggets-hungry",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-a1997333-048d-425f-aa61-b76dad6e7e77.png",
+      "prompt": "Use case: illustration-story. Make ONE playful die-cut paper sticker in this existing series.\nREFERENCE ROLES in upload order: Image 1 finished burger is STYLE ONLY: matte gouache/color-pencil texture, restrained warm palette, narrow white die-cut edge, tiny charcoal oval eyes and ink limbs, coral cheeks. Do not copy the burger body or sesame. Image 2 is NUGGET IDENTITY ONLY: preserve its one plump irregular golden chicken nugget body, warm pale center, crisp orange flecks, same face scale, tiny oval eyes, coral cheeks and charcoal arms/feet. Do not keep the flashlight, moon, stars, or surprised expression from that scene. Normal nugget has no hat/clothes.\nPAPER: flat front-facing matte printed paper, subtle tactile grain, narrow continuous white die-cut edge 1.5% canvas around complete scene, centered compact composition, 10% clear transparent margins, readable at 160–240px. Requested 1024x1024 PNG, genuine transparent alpha outside sticker. No letters, text, captions, logo, M, golden arches, watermark, card, background scene, floor shadow, food photography, CGI, rubber or toy material.\nSTORY: the SAME nugget slumps forward at a tiny plain cream table edge, its chin/upper body resting against the edge. With one charcoal hand it gently taps ONE little fork on ONE empty cream plate; the other arm is folded on the edge. Its oval eyes glance wistfully toward off-canvas, eyebrows lifted a little, tiny impatient mouth. Two tiny tap strokes by fork. Show just a very short tabletop strip as an essential prop, no full room, no extra food.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/tmp/maimen-tietie-cloud/artwork/originals/trait-night-owl.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/nuggets-hungry.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "610a582c8dd1189de0abc6aa9dd5691613d00b6ea31dec5a43dc500f8d801475",
+      "final": "docs/stickers/img/nuggets-hungry.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        17,
+        4,
+        481,
+        507
+      ],
+      "fully_transparent_pixels": 164290,
+      "bytes": 234252,
+      "sha256": "60df8e98034e8967089207d0b1bcd6acef5f3a7d2de53757aefb1ee0ab2f4942",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "nuggets-night",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-6dd2a1f3-73cb-46c5-bfc2-f74100579e8c.png",
+      "prompt": "Use case: illustration-story. Make ONE playful die-cut paper sticker in this existing series.\nREFERENCE ROLES in upload order: Image 1 finished burger is STYLE ONLY: matte gouache/color-pencil texture, restrained warm palette, narrow white die-cut edge, tiny charcoal oval eyes and ink limbs, coral cheeks. Do not copy the burger body or sesame. Image 2 is NUGGET IDENTITY ONLY: preserve its one plump irregular golden chicken nugget body, warm pale center, crisp orange flecks, same face scale, tiny oval eyes, coral cheeks and charcoal arms/feet. Do not keep the flashlight, moon, stars, or surprised expression from that scene. Normal nugget has no hat/clothes.\nPAPER: flat front-facing matte printed paper, subtle tactile grain, narrow continuous white die-cut edge 1.5% canvas around complete scene, centered compact composition, 10% clear transparent margins, readable at 160–240px. Requested 1024x1024 PNG, genuine transparent alpha outside sticker. No letters, text, captions, logo, M, golden arches, watermark, card, background scene, floor shadow, food photography, CGI, rubber or toy material.\nSTORY: the SAME nugget is asleep curled on its side under ONE folded cream paper napkin used as a blanket, eyes closed as tiny relaxed curves, coral cheeks and tiny peaceful mouth. Its small loose crispy top flake, removed like a hat, hangs on a little warm-red bedside lamp beside it. The body remains the same single nugget, not sliced food. Simple cozy compact silhouette. No moon, stars, flashlight or letters including Z. Only the napkin and one tiny lamp as props.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/tmp/maimen-tietie-cloud/artwork/originals/trait-night-owl.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/nuggets-night.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "74ffd297c69da599fa5f465769a54ce8d5d1fd6be63a8cd9c8b6696137ed8bba",
+      "final": "docs/stickers/img/nuggets-night.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        35,
+        492,
+        414
+      ],
+      "fully_transparent_pixels": 168838,
+      "bytes": 229469,
+      "sha256": "5126f220712b5dbcf868cc3e9aa7446d8df32159bbc2a4e76177745df9623126",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "coffee-ok",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-c06f3a78-7d61-48ee-965d-56750b4d0e4c.png",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this same series.\nREFERENCE ROLES in actual order: Image 1 finished burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink limbs, two tiny dark oval eyes and red circular cheeks. Do not copy burger anatomy. Image 2 is COFFEE IDENTITY ONLY: preserve exactly the cream tapered paper cup body, broad plain warm-brown sleeve, face on upper cream band, charcoal beret-like lid with small rounded nub, the same facial scale and little charcoal arms/feet. Closed eyes and battery-shaped steam in Image 2 are temporary scene features. Normal coffee has TWO tiny oval eyes and one ordinary simple cream steam curl; never a battery except in the trait reference.\nPAPER AND OUTPUT: flat front-facing matte printed paper, subtle tactile grain, narrow continuous white die-cut edge about1.5% canvas around complete scene. Centered compact composition, 10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine alpha transparency outside sticker. NO text, letters, captions, logo, M, golden arches, watermark, background card, scenery, room, floor shadow, glossy CGI, rubber, toy or photoreal product.\nLITTLE STORY: the same coffee cup stands upright giving a very solemn salute; its beret-like dark lid has slipped crooked down over one side of its forehead, partly hiding one eye, yet the other eye, eyebrows and tiny straight mouth remain comically serious. One charcoal hand at brow and the other at its side, two short feet. An ordinary small steam curl bends with the tilted lid. No battery symbol, no second hat. Subtle two-stroke accent by lid.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-dbf30faa-eca1-4449-9905-6d97d418daca.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/coffee-ok.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f051931118fa18310b7394695873fc3ab58ddccb5cfb7ee8653fc6cf00454cc8",
+      "final": "docs/stickers/img/coffee-ok.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        7,
+        15,
+        502,
+        496
+      ],
+      "fully_transparent_pixels": 176398,
+      "bytes": 218917,
+      "sha256": "25fbbb0d286b185adb3148ea4cf997ea10a14583fb405f95bffd421e20d10027",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "coffee-go",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-b059ea59-f5bf-4bca-91be-bad7dc8a3808.png",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this same series.\nREFERENCE ROLES in actual order: Image 1 finished burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink limbs, two tiny dark oval eyes and red circular cheeks. Do not copy burger anatomy. Image 2 is COFFEE IDENTITY ONLY: preserve exactly the cream tapered paper cup body, broad plain warm-brown sleeve, face on upper cream band, charcoal beret-like lid with small rounded nub, the same facial scale and little charcoal arms/feet. Closed eyes and battery-shaped steam in Image 2 are temporary scene features. Normal coffee has TWO tiny oval eyes and one ordinary simple cream steam curl; never a battery except in the trait reference.\nPAPER AND OUTPUT: flat front-facing matte printed paper, subtle tactile grain, narrow continuous white die-cut edge about1.5% canvas around complete scene. Centered compact composition, 10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine alpha transparency outside sticker. NO text, letters, captions, logo, M, golden arches, watermark, background card, scenery, room, floor shadow, glossy CGI, rubber, toy or photoreal product.\nLITTLE STORY: the same coffee cup has sprinted and now leaps forward with one bent knee raised and the other leg reaching back, two arms pumping, both tiny oval eyes fixed ahead with determined brows and a firm tiny mouth. Its dark lid stays in place but tilts with the motion, one ordinary steam curl trails back. One tiny dark coffee drop falls behind, with two short speed strokes. Keep sleeve and cream face band identical. No battery.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-dbf30faa-eca1-4449-9905-6d97d418daca.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/coffee-go.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "10cd6dff13d483670aa7154586fc8da04eedb5094282564a09d6aebc508046b7",
+      "final": "docs/stickers/img/coffee-go.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        43,
+        66,
+        507,
+        505
+      ],
+      "fully_transparent_pixels": 176929,
+      "bytes": 217271,
+      "sha256": "33686aec8a607fb1788ac543b43f51b2e5f973027754a9dee1fa17a7981c755c",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "coffee-hungry",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-9651c97f-12e3-4906-afc9-c43f47d34255.png",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this same series.\nREFERENCE ROLES in actual order: Image 1 finished burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink limbs, two tiny dark oval eyes and red circular cheeks. Do not copy burger anatomy. Image 2 is COFFEE IDENTITY ONLY: preserve exactly the cream tapered paper cup body, broad plain warm-brown sleeve, face on upper cream band, charcoal beret-like lid with small rounded nub, the same facial scale and little charcoal arms/feet. Closed eyes and battery-shaped steam in Image 2 are temporary scene features. Normal coffee has TWO tiny oval eyes and one ordinary simple cream steam curl; never a battery except in the trait reference.\nPAPER AND OUTPUT: flat front-facing matte printed paper, subtle tactile grain, narrow continuous white die-cut edge about1.5% canvas around complete scene. Centered compact composition, 10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine alpha transparency outside sticker. NO text, letters, captions, logo, M, golden arches, watermark, background card, scenery, room, floor shadow, glossy CGI, rubber, toy or photoreal product.\nLITTLE STORY: the same coffee cup slumps forward at a very short cream tabletop edge, both eyes glancing wistfully to off-canvas. Its charcoal hand gently taps one tiny plain fork on one empty cream plate, while its other arm rests folded on the table edge. Raised brows, small impatient mouth, dark lid slightly tilted, ordinary simple steam curl. Just this essential short tabletop strip, plate and fork, no surrounding room, no food or second drink. Two tiny tapping strokes.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-dbf30faa-eca1-4449-9905-6d97d418daca.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/coffee-hungry.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "184fb7cc2cf04717a0aa31f4e07e40bb3969fe924a7468bc7af4246200804b08",
+      "final": "docs/stickers/img/coffee-hungry.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        43,
+        435,
+        492
+      ],
+      "fully_transparent_pixels": 175392,
+      "bytes": 208750,
+      "sha256": "217f5d5adb1ebb4a9a8891890e5a12fd74da1094ac625f7d4d17388dc7538f62",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "coffee-night",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-7fe4a3ca-c9e8-43cc-832d-dd771617f235.png",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this same series.\nREFERENCE ROLES in actual order: Image 1 finished burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink limbs, two tiny dark oval eyes and red circular cheeks. Do not copy burger anatomy. Image 2 is COFFEE IDENTITY ONLY: preserve exactly the cream tapered paper cup body, broad plain warm-brown sleeve, face on upper cream band, charcoal beret-like lid with small rounded nub, the same facial scale and little charcoal arms/feet. Closed eyes and battery-shaped steam in Image 2 are temporary scene features. Normal coffee has TWO tiny oval eyes and one ordinary simple cream steam curl; never a battery except in the trait reference.\nPAPER AND OUTPUT: flat front-facing matte printed paper, subtle tactile grain, narrow continuous white die-cut edge about1.5% canvas around complete scene. Centered compact composition, 10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine alpha transparency outside sticker. NO text, letters, captions, logo, M, golden arches, watermark, background card, scenery, room, floor shadow, glossy CGI, rubber, toy or photoreal product.\nLITTLE STORY: the same coffee cup is asleep reclining on its side under one folded cream paper napkin blanket. Its face stays on the upper cream band with two relaxed closed eye curves, red cheeks and a peaceful tiny mouth. Its charcoal beret-like cup lid is removed and hangs from the little warm-red bedside lamp next to it, like a hat put away for sleep. Preserve the cream cup rim beneath, no liquid spilling. Cozy compact scene, one lamp and one napkin, no stars/moon or letters including Z.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-dbf30faa-eca1-4449-9905-6d97d418daca.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/coffee-night.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "ea479e75dc79147e982b6d061bbac656b991dc91722e66b0c56a151812cc6c49",
+      "final": "docs/stickers/img/coffee-night.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        17,
+        8,
+        492,
+        480
+      ],
+      "fully_transparent_pixels": 146323,
+      "bytes": 275613,
+      "sha256": "f37b9578a495c3f9f57c42bb723d845084a7e67e666c106bbb13c8a62b692309",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cone-ok",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-a44c70cd-23e5-4768-8ad8-dfab9144e09a.png",
+      "prompt": "Use case: illustration-story. Make ONE compact playful die-cut paper sticker in this exact existing series.\nREFERENCE ROLES in upload order: Image 1 burger is STYLE ONLY: preserve matte gouache/color-pencil paper grain, warm restrained colors, narrow white cut edge, charcoal ink arms/feet, two tiny dark oval eyes, circular coral cheeks. Do not import burger body or sesame. Image 2 is CONE IDENTITY: preserve exactly the ochre waffle cone body with thin diagonal waffle grid, broad cream soft-serve base where the tiny face lives, soft three-tier swirl and distinctive ONE curled cream forelock, same limb style and facial proportions. Reaching pose, tipped body, tabletop and apple pie are temporary trait-story features and MUST NOT recur.\nPAPER AND OUTPUT: flat front-facing matte printed paper sticker, subtle tactile grain, narrow continuous white die-cut edge 1.5%canvas around complete scene, compact centered shape,10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine transparent alpha outside sticker. NO text/letters/captions/logo/M/golden arches/watermark/background card/room/floor shadow/CGI/glossy rubber/toy/photoreal food. Face remains on cream soft-serve, never on waffle cone.\nLITTLE STORY: the same cone stands on its two little feet and gives a very serious salute with one ink hand. Its top cream forelock curls forward and has accidentally slipped down over half its forehead, partly covering one eye; the other eye, eyebrows and tiny straight mouth remain solemnly determined. Other arm by its side. One tiny two-stroke accent near slipped curl. Keep cream base and waffle cone upright and same proportions, no real hat or clothing.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/tmp/maimen-tietie-cloud/artwork/originals/trait-sweet-tooth.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cone-ok.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "055d3a523f17f8e8e3bb41979c204c9c9e9bcf1b9ff461ae299a7f3ec5db421a",
+      "final": "docs/stickers/img/cone-ok.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        20,
+        38,
+        507,
+        502
+      ],
+      "fully_transparent_pixels": 185231,
+      "bytes": 184222,
+      "sha256": "af9679f8296dfeb20c3b4bc27c31d2ff84f574822f45d666b32b9d4ec370d140",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cone-go",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-4d96a879-fbf6-4f6a-b46c-e36edd564a42.png",
+      "prompt": "Use case: illustration-story. Make ONE compact playful die-cut paper sticker in this exact existing series.\nREFERENCE ROLES in upload order: Image 1 burger is STYLE ONLY: preserve matte gouache/color-pencil paper grain, warm restrained colors, narrow white cut edge, charcoal ink arms/feet, two tiny dark oval eyes, circular coral cheeks. Do not import burger body or sesame. Image 2 is CONE IDENTITY: preserve exactly the ochre waffle cone body with thin diagonal waffle grid, broad cream soft-serve base where the tiny face lives, soft three-tier swirl and distinctive ONE curled cream forelock, same limb style and facial proportions. Reaching pose, tipped body, tabletop and apple pie are temporary trait-story features and MUST NOT recur.\nPAPER AND OUTPUT: flat front-facing matte printed paper sticker, subtle tactile grain, narrow continuous white die-cut edge 1.5%canvas around complete scene, compact centered shape,10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine transparent alpha outside sticker. NO text/letters/captions/logo/M/golden arches/watermark/background card/room/floor shadow/CGI/glossy rubber/toy/photoreal food. Face remains on cream soft-serve, never on waffle cone.\nLITTLE STORY: the same cone sprints then makes an energetic forward jump, one knee up and other short leg stretched back, arms pumping. Two tiny oval eyes fixed ahead, brows determined, small firm mouth. The cream swirl leans back from motion but stays the same three-tier identity. One tiny cream drop has accidentally fallen behind with two short speed strokes. No spoon, no clothing, no pie.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/tmp/maimen-tietie-cloud/artwork/originals/trait-sweet-tooth.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cone-go.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "3a529bf257436fb068ac0d73f31a632718a15e000c16aecc5526a53d77f5c544",
+      "final": "docs/stickers/img/cone-go.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        75,
+        47,
+        489,
+        495
+      ],
+      "fully_transparent_pixels": 164211,
+      "bytes": 240043,
+      "sha256": "ee6acb6e10136a714a0a179be7aa80cda18a20d92b227377154fc69fe91f2bad",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cone-hungry",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-977b4653-1d3c-41eb-9c89-273dd1a4ed74.png",
+      "prompt": "Use case: illustration-story. Make ONE compact playful die-cut paper sticker in this exact existing series.\nREFERENCE ROLES in upload order: Image 1 burger is STYLE ONLY: preserve matte gouache/color-pencil paper grain, warm restrained colors, narrow white cut edge, charcoal ink arms/feet, two tiny dark oval eyes, circular coral cheeks. Do not import burger body or sesame. Image 2 is CONE IDENTITY: preserve exactly the ochre waffle cone body with thin diagonal waffle grid, broad cream soft-serve base where the tiny face lives, soft three-tier swirl and distinctive ONE curled cream forelock, same limb style and facial proportions. Reaching pose, tipped body, tabletop and apple pie are temporary trait-story features and MUST NOT recur.\nPAPER AND OUTPUT: flat front-facing matte printed paper sticker, subtle tactile grain, narrow continuous white die-cut edge 1.5%canvas around complete scene, compact centered shape,10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine transparent alpha outside sticker. NO text/letters/captions/logo/M/golden arches/watermark/background card/room/floor shadow/CGI/glossy rubber/toy/photoreal food. Face remains on cream soft-serve, never on waffle cone.\nLITTLE STORY: the same cone slumps forward at one very short cream tabletop edge; broad cream face rests just above the edge, with wistful eyes looking off-canvas and tiny impatient mouth. One charcoal hand gently taps one tiny fork on one empty cream plate; other arm rests on edge. The three-tier swirl and forelock sag slightly with the waiting, no melting mess. Two tiny tapping marks, no extra food/pie/room.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/tmp/maimen-tietie-cloud/artwork/originals/trait-sweet-tooth.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cone-hungry.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "9c92c53c51f72fb553428d67a831ee4fe2dd68726bc93823a2820f18f08646a3",
+      "final": "docs/stickers/img/cone-hungry.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        29,
+        9,
+        486,
+        512
+      ],
+      "fully_transparent_pixels": 170583,
+      "bytes": 205184,
+      "sha256": "a15a5e576eb071f072340299665b09e94363c75426eee3e94a893f5258114aee",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cone-night",
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-c2abafc0-f8d8-46fd-ab1a-bf79d4919c44.png",
+      "prompt": "Use case: illustration-story. Make ONE compact playful die-cut paper sticker in this exact existing series.\nREFERENCE ROLES in upload order: Image 1 burger is STYLE ONLY: preserve matte gouache/color-pencil paper grain, warm restrained colors, narrow white cut edge, charcoal ink arms/feet, two tiny dark oval eyes, circular coral cheeks. Do not import burger body or sesame. Image 2 is CONE IDENTITY: preserve exactly the ochre waffle cone body with thin diagonal waffle grid, broad cream soft-serve base where the tiny face lives, soft three-tier swirl and distinctive ONE curled cream forelock, same limb style and facial proportions. Reaching pose, tipped body, tabletop and apple pie are temporary trait-story features and MUST NOT recur.\nPAPER AND OUTPUT: flat front-facing matte printed paper sticker, subtle tactile grain, narrow continuous white die-cut edge 1.5%canvas around complete scene, compact centered shape,10% clear transparent margins, readable at160–240px. Requested1024x1024 PNG genuine transparent alpha outside sticker. NO text/letters/captions/logo/M/golden arches/watermark/background card/room/floor shadow/CGI/glossy rubber/toy/photoreal food. Face remains on cream soft-serve, never on waffle cone.\nLITTLE STORY: the same cone is asleep reclining sideways under a folded cream paper napkin as a blanket, two relaxed closed eye curves and tiny peaceful mouth on the same broad cream soft-serve base, red cheeks, little feet peeking out. Only the small top curled forelock has been removed like a sleep-time hat and hangs carefully on one little warm-red bedside lamp beside it. Main cream base and waffle cone remain recognizable, not sliced. Compact cozy silhouette, only lamp and napkin. No moon/stars/letters including Z.",
+      "references": [
+        "/tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png",
+        "/tmp/maimen-tietie-cloud/artwork/originals/trait-sweet-tooth.png"
+      ],
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cone-night.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6f4fb50e3d0ba237e95478645834650ac6708f32f0de706b8203b0f18e90ea34",
+      "final": "docs/stickers/img/cone-night.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        15,
+        11,
+        509,
+        505
+      ],
+      "fully_transparent_pixels": 170551,
+      "bytes": 214194,
+      "sha256": "24ed751c9e513db31b18fc30560c8ae089a9902c7b60b68a1f869cc96115bb2f",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cola-ok",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this existing series.\nREFERENCE ROLES in actual order: Image 1 burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink arms and feet, two tiny dark oval eyes and circular coral cheeks. Do not copy burger anatomy. Image 2 is COLA IDENTITY ONLY: preserve the plain warm-red tapered paper drink cup, broad cream rimmed lid, bent cream straw outlined in red like a little antenna, and same facial scale with little charcoal arms/feet. Sunglasses, reclining pose, picnic mat and umbrella shape in Image 2 are temporary trait scene details and MUST NOT recur. Normal cup has two tiny dark oval eyes on red body and one simple bent drinking straw, not an umbrella.\nOUTPUT: flat front-facing matte printed paper, narrow continuous white die-cut edge around complete scene, compact centered composition with at least 10% transparent margins; readable at160–240px. Requested1024x1024 PNG with genuine alpha transparency. No text, letters, captions, brands, logo, M, golden arches, watermark, scenery, room, floor shadow, glossy CGI, rubber or toy.\nLITTLE STORY: The same cup stands at attention and gives a very serious salute with one charcoal hand. Its cream lid has accidentally slipped diagonally halfway down over one eyebrow, with the bent antenna straw tilting along with the lid. One eye partly covered, the other eye and tiny straight mouth remain solemnly determined. Keep face on red cup body and recognizable cup shape, other arm at its side. One tiny two-stroke surprise accent. No hat or extra drink.",
+      "references": [
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/trait-weekend.png"
+      ],
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-e08ab57d-90ac-449c-89aa-79ef4a08e40a.png",
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cola-ok.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2b5903031471f380efd63d4a09e59b089ffff1a321319b7516c3890fa5514e60",
+      "final": "docs/stickers/img/cola-ok.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        20,
+        42,
+        468,
+        503
+      ],
+      "fully_transparent_pixels": 193952,
+      "bytes": 165688,
+      "sha256": "0b98c039a9fbdba67bbe9411b3c30acd7525f7d42b2ca07354533d6471475541",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cola-go",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this existing series.\nREFERENCE ROLES in actual order: Image 1 burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink arms and feet, two tiny dark oval eyes and circular coral cheeks. Do not copy burger anatomy. Image 2 is COLA IDENTITY ONLY: preserve the plain warm-red tapered paper drink cup, broad cream rimmed lid, bent cream straw outlined in red like a little antenna, and same facial scale with little charcoal arms/feet. Sunglasses, reclining pose, picnic mat and umbrella shape in Image 2 are temporary trait scene details and MUST NOT recur. Normal cup has two tiny dark oval eyes on red body and one simple bent drinking straw, not an umbrella.\nOUTPUT: flat front-facing matte printed paper, narrow continuous white die-cut edge around complete scene, compact centered composition with at least 10% transparent margins; readable at160–240px. Requested1024x1024 PNG with genuine alpha transparency. No text, letters, captions, brands, logo, M, golden arches, watermark, scenery, room, floor shadow, glossy CGI, rubber or toy.\nLITTLE STORY: The same cup makes an energetic determined forward jump after a sprint, one knee up and other short leg stretched back, arms pumping, eyes fixed ahead and small firm mouth. The bent antenna straw leans back from the motion. One tiny amber drink droplet has accidentally fallen behind with two short speed strokes. Preserve the cream lid attached and no liquid flood, no extra objects.",
+      "references": [
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/trait-weekend.png"
+      ],
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-1c0f7a5c-d03c-4c45-87c8-2b71d744b2c4.png",
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cola-go.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "9e5cd819032955bb907882919c3e49c65430026cb1b70d032ff32f062226637d",
+      "final": "docs/stickers/img/cola-go.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        46,
+        42,
+        461,
+        446
+      ],
+      "fully_transparent_pixels": 189084,
+      "bytes": 184171,
+      "sha256": "6f3f38bb0ec2e767ced63ba7c297db0c2c5460e0da3bcced6345d090afb6b543",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cola-hungry",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this existing series.\nREFERENCE ROLES in actual order: Image 1 burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink arms and feet, two tiny dark oval eyes and circular coral cheeks. Do not copy burger anatomy. Image 2 is COLA IDENTITY ONLY: preserve the plain warm-red tapered paper drink cup, broad cream rimmed lid, bent cream straw outlined in red like a little antenna, and same facial scale with little charcoal arms/feet. Sunglasses, reclining pose, picnic mat and umbrella shape in Image 2 are temporary trait scene details and MUST NOT recur. Normal cup has two tiny dark oval eyes on red body and one simple bent drinking straw, not an umbrella.\nOUTPUT: flat front-facing matte printed paper, narrow continuous white die-cut edge around complete scene, compact centered composition with at least 10% transparent margins; readable at160–240px. Requested1024x1024 PNG with genuine alpha transparency. No text, letters, captions, brands, logo, M, golden arches, watermark, scenery, room, floor shadow, glossy CGI, rubber or toy.\nLITTLE STORY: The same cup slumps forward at one very short cream tabletop edge, face on red cup body just above the edge. One charcoal hand gently taps one tiny plain fork on one empty cream plate while the other arm rests on the edge. Two eyes glance wistfully off-canvas with raised brows and a tiny impatient mouth. The simple antenna straw droops slightly from waiting. Two tiny tapping marks. Only this essential short tabletop strip, fork and empty plate, no other food or room.",
+      "references": [
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/trait-weekend.png"
+      ],
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-4c979134-5486-420f-9dea-ed68b7f31f5c.png",
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cola-hungry.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "ec5b571835d960cf480edf1a208fbcb7a499b381e5109d33eb2b6414bce93261",
+      "final": "docs/stickers/img/cola-hungry.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        30,
+        52,
+        446,
+        509
+      ],
+      "fully_transparent_pixels": 167237,
+      "bytes": 207452,
+      "sha256": "a466aad5f188c5ee04f1c88fb9d0dda3ec74b34fc84f62a779ae3923f5dd9dd5",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    },
+    {
+      "name": "cola-night",
+      "prompt": "Use case: illustration-story. Create ONE compact playful die-cut paper sticker in this existing series.\nREFERENCE ROLES in actual order: Image 1 burger is STYLE ONLY: matte gouache/color-pencil paper grain, narrow white edge, charcoal ink arms and feet, two tiny dark oval eyes and circular coral cheeks. Do not copy burger anatomy. Image 2 is COLA IDENTITY ONLY: preserve the plain warm-red tapered paper drink cup, broad cream rimmed lid, bent cream straw outlined in red like a little antenna, and same facial scale with little charcoal arms/feet. Sunglasses, reclining pose, picnic mat and umbrella shape in Image 2 are temporary trait scene details and MUST NOT recur. Normal cup has two tiny dark oval eyes on red body and one simple bent drinking straw, not an umbrella.\nOUTPUT: flat front-facing matte printed paper, narrow continuous white die-cut edge around complete scene, compact centered composition with at least 10% transparent margins; readable at160–240px. Requested1024x1024 PNG with genuine alpha transparency. No text, letters, captions, brands, logo, M, golden arches, watermark, scenery, room, floor shadow, glossy CGI, rubber or toy.\nLITTLE STORY: The same red drink cup is asleep reclining sideways under one folded cream paper napkin as a blanket, two relaxed closed eye curves, red cheeks, tiny peaceful mouth, and charcoal feet peeking out. The cream lid with its attached bent antenna straw is removed and hangs carefully on one small warm-red bedside lamp next to it, like a hat put away for sleep; the cup's open rim is visible with no spilling liquid. Compact cozy silhouette, only napkin and lamp, no moon/stars/letters including Z.",
+      "references": [
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/burger-ok.png",
+        "/workspace/scratch/7f7bbb4d3ee6/maimen-tietie-cloud/repo/docs/stickers/img/trait-weekend.png"
+      ],
+      "source": "/workspace/scratch/7f7bbb4d3ee6/generated_images/exec-21796c5d-6230-4e19-b9cc-61ff5af7a49e.png",
+      "mode": "built-in imagegen",
+      "original": "/tmp/maimen-tietie-cloud/artwork-remaining/originals/cola-night.png",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b6aac91fb659cab8425e9e12d2fcc63e52d2d28555db7e778a3a5b80e13c8ee3",
+      "final": "docs/stickers/img/cola-night.png",
+      "final_dimensions": [
+        512,
+        512
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        27,
+        27,
+        498,
+        472
+      ],
+      "fully_transparent_pixels": 177210,
+      "bytes": 202368,
+      "sha256": "e8a9c9190f74ed0d67b77c42052f943afffc8dd368ba51b00b1d93bb74973102",
+      "visual_review": "passed: identity, plot, text-free, edge and margin inspected"
+    }
+  ],
+  "library_save": {
+    "status": "blocked before any prepare/upload/finalize",
+    "route": "current official prepared-upload helper",
+    "current_tools_exposed": [
+      "prepare_uploads",
+      "finalize_uploads"
+    ],
+    "exact_error": "library upload failed: hosted apps tools/list request failed with HTTP status 403",
+    "exit_code": 1,
+    "retry_or_bypass": "none"
+  },
+  "generation_recovery": [
+    {
+      "asset": "cone-night",
+      "failure": "unable to read referenced image at /tmp/maimen-tietie-cloud/artwork/originals/burger-ok.png: exec-server transport closed",
+      "evidence": "both referenced files checked present/readable; failure occurred before generation",
+      "recovery": "single safe retry of same prompt/references succeeded"
+    }
+  ]
+}
