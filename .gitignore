@@ -6,3 +6,4 @@ __pycache__/
 /tmp/
 *.log
 .node_repl_history
+*.local.html
