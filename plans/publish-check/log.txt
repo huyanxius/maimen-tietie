@@ -1,0 +1,8 @@
+a0b14ae docs: add skill workflow and verified release evidence
+eb202ff feat: add responsive sticker maker with private png export
+b6957a3 feat: add complete original paper sticker artwork
+3147b34 fix: reject invisible and multiline sticker text
+e1b3878 feat: add validated browser pack logic with cross-language parity
+e670cb2 feat: derive and validate privacy-safe sticker pack links
+ee397cb feat: define sticker library
+be775ce chore: init maimen-tietie with official contest declaration
