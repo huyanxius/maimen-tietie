@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "site": "https://huyanxius.github.io/maimen-tietie/",
+  "characters": [
+    {"id": "burger", "name": "汉堡", "match": ["巨无霸", "麦满分", "猪柳", "堡"]},
+    {"id": "fries", "name": "薯条", "match": ["薯条", "薯饼", "薯"]},
+    {"id": "nuggets", "name": "鸡块", "match": ["麦乐鸡", "鸡块", "鸡翅", "翅"]},
+    {"id": "coffee", "name": "咖啡", "match": ["咖啡", "拿铁", "美式", "卡布", "麦咖啡", "McCafé"]},
+    {"id": "cone", "name": "甜筒", "match": ["甜筒", "麦旋风", "圣代", "冰淇淋", "派"]},
+    {"id": "cola", "name": "可乐", "match": ["可乐", "雪碧", "芬达", "橙汁", "饮"]}
+  ],
+  "reactions": [
+    {"id": "ok", "caption": "收到"},
+    {"id": "go", "caption": "冲"},
+    {"id": "hungry", "caption": "饿了"},
+    {"id": "night", "caption": "晚安"}
+  ],
+  "traits": [
+    {"id": "early_bird", "name": "早八续命", "caption": "早八续命中", "image": "trait-early-bird.png"},
+    {"id": "night_owl", "name": "深夜麦门", "caption": "夜里也营业", "image": "trait-night-owl.png"},
+    {"id": "fries_loyalist", "name": "薯条常驻", "caption": "薯条必须有", "image": "trait-fries-loyalist.png"},
+    {"id": "spicy", "name": "无辣不欢", "caption": "要辣的", "image": "trait-spicy.png"},
+    {"id": "group_host", "name": "拼单发起人", "caption": "我来组局", "image": "trait-group-host.png"},
+    {"id": "weekend", "name": "周末限定", "caption": "周末见", "image": "trait-weekend.png"},
+    {"id": "coffee_lover", "name": "咖啡续航", "caption": "先来杯咖啡", "image": "trait-coffee-lover.png"},
+    {"id": "sweet_tooth", "name": "甜品时间", "caption": "来点甜的", "image": "trait-sweet-tooth.png"}
+  ]
+}
