@@ -1,0 +1,100 @@
+{
+  "origin": "Real browser Download all, synthetic fixture pack (not live MCP)",
+  "files": [
+    {
+      "file": "01-收到.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        57,
+        28,
+        186,
+        230
+      ],
+      "sha256": "70d4749bccf9d2b373f32f85e28397145da43fb7a3e99ec457b42b2a068e2793"
+    },
+    {
+      "file": "02-冲.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        51,
+        31,
+        193,
+        229
+      ],
+      "sha256": "3f19790e58ba711285486e7bcf0b4d2f069c82369537785bef1f2c225c9daaf6"
+    },
+    {
+      "file": "03-饿了.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        51,
+        35,
+        190,
+        230
+      ],
+      "sha256": "d8ae12f4994db6fb3efc35e9742362c23598b69b93c49d4358e05abaf0bc4139"
+    },
+    {
+      "file": "04-晚安.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        54,
+        41,
+        190,
+        231
+      ],
+      "sha256": "7b6f867c4ab470a15855386835e733e32ca890f6cf1c3ca68d57489ef1788c07"
+    },
+    {
+      "file": "05-早八续命中.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        28,
+        38,
+        211,
+        230
+      ],
+      "sha256": "4dc18fae5b5ae0b7bbfeacdbabc17f817b030f037bce1312725490b2d963b1b8"
+    }
+  ]
+}

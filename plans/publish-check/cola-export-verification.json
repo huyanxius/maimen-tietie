@@ -1,0 +1,158 @@
+{
+  "origin": "Real top-level cloud browser Download all after share-token reload; synthetic quiz data, not live MCP",
+  "zip_sha256": "d8c5576a00de6dfc458e02e2bd8fbc830f04a67691462624d4d8a25b332c2215",
+  "files": [
+    {
+      "file": "01-今天也要好好休息.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        13,
+        27,
+        226,
+        230
+      ],
+      "sha256": "d5543f5e840f3cd9bf96e9123301e2ef6ed1d45db0bf04f9f6aac3203f360c18"
+    },
+    {
+      "file": "02-冲.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        63,
+        28,
+        189,
+        229
+      ],
+      "sha256": "2a5bb70f5dcabe6bbf318cf1b0cbda225a1151a49ab93027760b8e248cbe5776"
+    },
+    {
+      "file": "03-饿了.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        57,
+        28,
+        183,
+        230
+      ],
+      "sha256": "ce8cb51df9b03eb8771f0aab6e963fe317d85868f209772aec7799951d5a8b7d"
+    },
+    {
+      "file": "04-晚安.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        48,
+        32,
+        192,
+        231
+      ],
+      "sha256": "be1d962dbe00a2af560f1b102b7c93b5e50fc2111ff359bfd521d38f6636be6a"
+    },
+    {
+      "file": "05-夜里也营业.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        27,
+        26,
+        212,
+        231
+      ],
+      "sha256": "2017a1e09bc2fc4a19f0aa796c2e5ae30db5f32a83342682ed836d4a5c01eeb5"
+    },
+    {
+      "file": "06-薯条必须有.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        29,
+        40,
+        211,
+        230
+      ],
+      "sha256": "5f9ae48a8de6f2153d256bcf0d862643e1869e026374ff5da20349947acd58e1"
+    },
+    {
+      "file": "07-要辣的.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        52,
+        39,
+        190,
+        231
+      ],
+      "sha256": "139efb9b43af5bb041b8fcfc8a3d255a5ee619f11d5e87da76e52bd219fa7e72"
+    },
+    {
+      "file": "08-我来组局.png",
+      "size": [
+        240,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "content_bounds": [
+        46,
+        57,
+        194,
+        230
+      ],
+      "sha256": "be4f12b36079f374afa05fa2dd8fab3980fff20882c61b34ab1278fcc3167f06"
+    }
+  ]
+}

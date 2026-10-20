@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "name": "小王",
+  "character": "burger",
+  "stickers": [
+    {
+      "id": "r:burger:ok",
+      "caption": "收到"
+    },
+    {
+      "id": "r:burger:go",
+      "caption": "冲"
+    },
+    {
+      "id": "r:burger:hungry",
+      "caption": "饿了"
+    },
+    {
+      "id": "r:burger:night",
+      "caption": "晚安"
+    },
+    {
+      "id": "t:early_bird",
+      "caption": "早八续命中"
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "referenced_assets": 32,
+  "missing": [],
+  "assets": [
+    {
+      "file": "docs/stickers/img/burger-ok.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        37,
+        51,
+        494,
+        461
+      ],
+      "sha256": "5cddb00ba43ce57f1c5932161c9d28a051b728639943dfb85f1c7e8abe159689",
+      "bytes": 290605
+    },
+    {
+      "file": "docs/stickers/img/burger-go.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        29,
+        41,
+        476,
+        488
+      ],
+      "sha256": "aa4ed3cc113df5dcffae4d4f397e02f4394ebeb75cf594dc913e0f86e3374e42",
+      "bytes": 262360
+    },
+    {
+      "file": "docs/stickers/img/burger-hungry.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        35,
+        42,
+        464,
+        503
+      ],
+      "sha256": "3636a864e77e929ecb92555b191037b7700a502fcd7c285c5ace6f30a28a9d57",
+      "bytes": 275654
+    },
+    {
+      "file": "docs/stickers/img/burger-night.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        22,
+        25,
+        463,
+        494
+      ],
+      "sha256": "843603741092b17786b7d551255ab9db82d4dc885952cb2ca897de745c104932",
+      "bytes": 215552
+    },
+    {
+      "file": "docs/stickers/img/fries-ok.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        43,
+        43,
+        482,
+        498
+      ],
+      "sha256": "47cc9e6731d5edd0a082a0f960af6c27ea881475b79188046568644ebd1c6d92",
+      "bytes": 260026
+    },
+    {
+      "file": "docs/stickers/img/fries-go.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        50,
+        65,
+        492,
+        466
+      ],
+      "sha256": "99b623e4c1deff7422af89ae89e08ab5147c09ce946a525e31b9339d09578bc0",
+      "bytes": 204182
+    },
+    {
+      "file": "docs/stickers/img/fries-hungry.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        56,
+        507,
+        509
+      ],
+      "sha256": "018970535ee23b5d56ea6f1aec46f72898221f05c0ca297e68f07f55df539f23",
+      "bytes": 259361
+    },
+    {
+      "file": "docs/stickers/img/fries-night.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        49,
+        49,
+        463,
+        446
+      ],
+      "sha256": "12dc7f9ebba4cc6faaa92777a05c6dcc1d048d01dc180c4607e687512484ff5f",
+      "bytes": 179578
+    },
+    {
+      "file": "docs/stickers/img/nuggets-ok.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        17,
+        39,
+        429,
+        467
+      ],
+      "sha256": "11692a222e4f358f74d561db0e7c0a481a7408e83544cd12357f79557c47e543",
+      "bytes": 257126
+    },
+    {
+      "file": "docs/stickers/img/nuggets-go.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        16,
+        55,
+        475,
+        487
+      ],
+      "sha256": "0d04d2cdd082846e472424f23e50f47415062d2cdee7d27c7558705a8eeaa106",
+      "bytes": 229670
+    },
+    {
+      "file": "docs/stickers/img/nuggets-hungry.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        17,
+        4,
+        481,
+        507
+      ],
+      "sha256": "60df8e98034e8967089207d0b1bcd6acef5f3a7d2de53757aefb1ee0ab2f4942",
+      "bytes": 234252
+    },
+    {
+      "file": "docs/stickers/img/nuggets-night.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        35,
+        492,
+        414
+      ],
+      "sha256": "5126f220712b5dbcf868cc3e9aa7446d8df32159bbc2a4e76177745df9623126",
+      "bytes": 229469
+    },
+    {
+      "file": "docs/stickers/img/coffee-ok.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        7,
+        15,
+        502,
+        496
+      ],
+      "sha256": "25fbbb0d286b185adb3148ea4cf997ea10a14583fb405f95bffd421e20d10027",
+      "bytes": 218917
+    },
+    {
+      "file": "docs/stickers/img/coffee-go.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        43,
+        66,
+        507,
+        505
+      ],
+      "sha256": "33686aec8a607fb1788ac543b43f51b2e5f973027754a9dee1fa17a7981c755c",
+      "bytes": 217271
+    },
+    {
+      "file": "docs/stickers/img/coffee-hungry.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        43,
+        435,
+        492
+      ],
+      "sha256": "217f5d5adb1ebb4a9a8891890e5a12fd74da1094ac625f7d4d17388dc7538f62",
+      "bytes": 208750
+    },
+    {
+      "file": "docs/stickers/img/coffee-night.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        17,
+        8,
+        492,
+        480
+      ],
+      "sha256": "f37b9578a495c3f9f57c42bb723d845084a7e67e666c106bbb13c8a62b692309",
+      "bytes": 275613
+    },
+    {
+      "file": "docs/stickers/img/cone-ok.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        20,
+        38,
+        507,
+        502
+      ],
+      "sha256": "af9679f8296dfeb20c3b4bc27c31d2ff84f574822f45d666b32b9d4ec370d140",
+      "bytes": 184222
+    },
+    {
+      "file": "docs/stickers/img/cone-go.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        75,
+        47,
+        489,
+        495
+      ],
+      "sha256": "ee6acb6e10136a714a0a179be7aa80cda18a20d92b227377154fc69fe91f2bad",
+      "bytes": 240043
+    },
+    {
+      "file": "docs/stickers/img/cone-hungry.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        29,
+        9,
+        486,
+        512
+      ],
+      "sha256": "a15a5e576eb071f072340299665b09e94363c75426eee3e94a893f5258114aee",
+      "bytes": 205184
+    },
+    {
+      "file": "docs/stickers/img/cone-night.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        15,
+        11,
+        509,
+        505
+      ],
+      "sha256": "24ed751c9e513db31b18fc30560c8ae089a9902c7b60b68a1f869cc96115bb2f",
+      "bytes": 214194
+    },
+    {
+      "file": "docs/stickers/img/cola-ok.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        20,
+        42,
+        468,
+        503
+      ],
+      "sha256": "0b98c039a9fbdba67bbe9411b3c30acd7525f7d42b2ca07354533d6471475541",
+      "bytes": 165688
+    },
+    {
+      "file": "docs/stickers/img/cola-go.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        46,
+        42,
+        461,
+        446
+      ],
+      "sha256": "6f3f38bb0ec2e767ced63ba7c297db0c2c5460e0da3bcced6345d090afb6b543",
+      "bytes": 184171
+    },
+    {
+      "file": "docs/stickers/img/cola-hungry.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        30,
+        52,
+        446,
+        509
+      ],
+      "sha256": "a466aad5f188c5ee04f1c88fb9d0dda3ec74b34fc84f62a779ae3923f5dd9dd5",
+      "bytes": 207452
+    },
+    {
+      "file": "docs/stickers/img/cola-night.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        27,
+        27,
+        498,
+        472
+      ],
+      "sha256": "e8a9c9190f74ed0d67b77c42052f943afffc8dd368ba51b00b1d93bb74973102",
+      "bytes": 202368
+    },
+    {
+      "file": "docs/stickers/img/trait-early-bird.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        36,
+        26,
+        507,
+        449
+      ],
+      "sha256": "ff83578906e483e6a316091948409740f7863244d8be8ec4684215e17f317f9f",
+      "bytes": 244424
+    },
+    {
+      "file": "docs/stickers/img/trait-night-owl.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        51,
+        48,
+        472,
+        480
+      ],
+      "sha256": "88dfe4315439b6599a5b4d5c9b75d1cbef4528fdb12895f0e6777bacd63e92bf",
+      "bytes": 213155
+    },
+    {
+      "file": "docs/stickers/img/trait-fries-loyalist.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        53,
+        52,
+        484,
+        486
+      ],
+      "sha256": "3ab1a089ab1f31f67c9c0499ce3e93f079545e98a8b876f9f8544019b5985cbb",
+      "bytes": 196873
+    },
+    {
+      "file": "docs/stickers/img/trait-spicy.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        18,
+        17,
+        470,
+        487
+      ],
+      "sha256": "79fe996b5559cf6c5af8df4a680fe4e2ea46a2e33ac6b49777dcc36e36e255a7",
+      "bytes": 227381
+    },
+    {
+      "file": "docs/stickers/img/trait-group-host.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        54,
+        51,
+        467,
+        448
+      ],
+      "sha256": "41ca249ee4a1433829cf790b96d457409524e33153e5904821e08a325d22e470",
+      "bytes": 172239
+    },
+    {
+      "file": "docs/stickers/img/trait-weekend.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        80,
+        46,
+        457,
+        459
+      ],
+      "sha256": "a00a4d8ff5e65f0d33e8c58af8b10ae92c22f7bd9f3027786c7649ec04a77f98",
+      "bytes": 200614
+    },
+    {
+      "file": "docs/stickers/img/trait-coffee-lover.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        33,
+        49,
+        392,
+        473
+      ],
+      "sha256": "1169468d60eb4fb39fdfe48e8faf42f11e16a3a4505cb7640b7916d6fc0648b7",
+      "bytes": 166201
+    },
+    {
+      "file": "docs/stickers/img/trait-sweet-tooth.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        48,
+        48,
+        463,
+        475
+      ],
+      "sha256": "72f5fa067469e97fdb369032b534dfe71abac6970545f13ba3dc64c124b0b4ee",
+      "bytes": 184473
+    }
+  ]
+}

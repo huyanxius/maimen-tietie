@@ -1,0 +1,39 @@
+{
+  "v": 1,
+  "name": "可乐小队",
+  "character": "cola",
+  "stickers": [
+    {
+      "id": "r:cola:ok",
+      "caption": "今天也要好好休息"
+    },
+    {
+      "id": "r:cola:go",
+      "caption": "冲"
+    },
+    {
+      "id": "r:cola:hungry",
+      "caption": "饿了"
+    },
+    {
+      "id": "r:cola:night",
+      "caption": "晚安"
+    },
+    {
+      "id": "t:night_owl",
+      "caption": "夜里也营业"
+    },
+    {
+      "id": "t:fries_loyalist",
+      "caption": "薯条必须有"
+    },
+    {
+      "id": "t:spicy",
+      "caption": "要辣的"
+    },
+    {
+      "id": "t:group_host",
+      "caption": "我来组局"
+    }
+  ]
+}

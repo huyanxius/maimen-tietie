@@ -1,0 +1,40 @@
+✔ decodes the token python produced (2.816742ms)
+✔ encodes to the same token python produced (0.407116ms)
+✔ quiz picks traits in library order, at most four (0.445535ms)
+✔ unknown character falls back to burger (0.244851ms)
+✔ pack has four reactions then the traits (0.629152ms)
+✔ image file names (0.362238ms)
+✔ validate rejects long and banned captions (0.468529ms)
+✔ pack requires an object with exactly four public fields (1.210172ms)
+✔ unknown fields cannot leak into an encoded link (2.10754ms)
+✔ version is numeric one, never boolean or a string (0.515991ms)
+✔ pack field types are checked before using them (1.488883ms)
+✔ stickers require exactly id and caption strings (0.902296ms)
+✔ library membership applies to character and sticker IDs (0.592757ms)
+✔ sticker grammar is exact, with no suffix or whitespace (1.191474ms)
+✔ duplicate stickers are rejected (0.205991ms)
+✔ custom pack count accepts 1 and 16, rejects 0 and 17 (1.224393ms)
+✔ captions count Unicode codepoints, not UTF-16 units (0.797878ms)
+✔ all banned caption terms are rejected (0.56832ms)
+✔ name permits twelve codepoints and builder truncates at twelve (0.361998ms)
+✔ lone surrogate codepoints are rejected before encoding (0.358964ms)
+✔ encoding fixes key order without mutating the input (0.217579ms)
+✔ builder rejects invalid persona structures, traits and name types (0.19107ms)
+✔ quiz rejects malformed answers rather than truthy coercion (0.251421ms)
+✔ quiz deduplicates and ignores unknown extra traits in library order (0.100352ms)
+✔ decode rejects invalid token alphabet, padding and length (0.173302ms)
+✔ decode rejects malformed UTF-8 instead of replacing it (0.286123ms)
+✔ decode does not accept arbitrary JSON values or malformed JSON (0.337671ms)
+✔ decode rejects noncanonical unused base64 bits but permits JSON whitespace (0.191931ms)
+✔ captions reject whitespace-only text and controls in all public text (0.267926ms)
+✔ WeChat is detected without hiding ZIP for ordinary browsers (1.14311ms)
+✔ renderer produces a square 240px canvas with fitted eight-character caption (0.821253ms)
+✔ font failure still yields usable export with system fallback (0.42943ms)
+ℹ tests 32
+ℹ suites 0
+ℹ pass 32
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 126.279997
