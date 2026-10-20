@@ -104,6 +104,8 @@ def _require_text(value, label, nonempty=False):
     """Python len 和 JS 的 [...text].length 都按 Unicode 码点计数，不接受孤立代理项。"""
     if not isinstance(value, str) or any(0xD800 <= ord(c) <= 0xDFFF for c in value):
         raise ValueError(f"{label}必须是有效的 Unicode 文字")
+    if any(ord(c) < 0x20 or 0x7F <= ord(c) <= 0x9F or ord(c) in (0x2028, 0x2029) for c in value):
+        raise ValueError(f"{label}不能包含换行或控制字符")
     if nonempty and not value.strip():
         raise ValueError(f"{label}不能为空")
     return value
@@ -172,7 +174,7 @@ def _validate_pack_shape(pack):
         if sid in seen:
             raise ValueError("同一张贴纸不能重复")
         seen.add(sid)
-        cap = _require_text(sticker["caption"], "配字")
+        cap = _require_text(sticker["caption"], "配字", nonempty=True)
         if not 1 <= len(cap) <= MAX_CAPTION:
             raise ValueError(f"配字要 1 到 {MAX_CAPTION} 个字")
         if any(word in cap for word in BANNED):

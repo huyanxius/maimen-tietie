@@ -25,6 +25,7 @@ function requireText(value, label, nonempty = false) {
   for (const char of value) {
     const code = char.codePointAt(0);
     if (code >= 0xd800 && code <= 0xdfff) throw new Error(`${label}必须是有效的 Unicode 文字`);
+    if (code < 0x20 || (code >= 0x7f && code <= 0x9f) || code === 0x2028 || code === 0x2029) throw new Error(`${label}不能包含换行或控制字符`);
   }
   if (nonempty && !value.trim()) throw new Error(`${label}不能为空`);
   return value;
@@ -96,7 +97,7 @@ function validatePackShape(pack) {
     if (!REACTION_RE.test(id) && !TRAIT_RE.test(id)) throw new Error("贴纸编号格式不正确");
     if (seen.has(id)) throw new Error("同一张贴纸不能重复");
     seen.add(id);
-    const caption = requireText(sticker.caption, "配字");
+    const caption = requireText(sticker.caption, "配字", true);
     if ([...caption].length < 1 || [...caption].length > MAX_CAPTION) throw new Error(`配字要 1 到 ${MAX_CAPTION} 个字`);
     if (BANNED.some((word) => caption.includes(word))) throw new Error("配字含有不合规的词");
   }

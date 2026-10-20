@@ -140,7 +140,7 @@ class PackValidationTest(unittest.TestCase):
 
     def test_unicode_and_escaping_match_javascript(self):
         # 码点计数不是字节数/UTF-16 单元数；控制字符和 U+2028 的 JSON 转义也必须一致。
-        pack = dict(PACK, name="😀小王\n\u2028", stickers=[{"id": "r:fries:ok", "caption": '好"\\\n😀'}])
+        pack = dict(PACK, name="😀小王\"\\", stickers=[{"id": "r:fries:ok", "caption": '好"\\😀'}])
         js = "import { encodePack } from './docs/app/core.js'; let x=''; for await (const c of process.stdin) x+=c; console.log(encodePack(JSON.parse(x)));"
         result = subprocess.run(["node", "--input-type=module", "-e", js], cwd=ROOT, input=json.dumps(pack, ensure_ascii=False), text=True, capture_output=True, check=True)
         self.assertEqual(result.stdout.strip(), tietie.encode_pack(pack))

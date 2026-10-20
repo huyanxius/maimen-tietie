@@ -189,3 +189,10 @@ test("decode rejects noncanonical unused base64 bits but permits JSON whitespace
   assert.throws(() => decodePack(changed));
   assert.deepEqual(decodePack(token), basePack());
 });
+
+test("captions reject whitespace-only text and controls in all public text", () => {
+  for (const caption of [" ", "　", "好\n", "\t", "\u0000", "好\u0085", "好\u2028", "好\u2029"]) {
+    assert.throws(() => validatePack({ ...basePack(), stickers: [{ id: "r:fries:ok", caption }] }, library));
+  }
+  for (const name of ["小\n王", "\u007f", "\u2028"]) assert.throws(() => validatePack({ ...basePack(), name }, library));
+});
