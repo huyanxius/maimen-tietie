@@ -4,9 +4,9 @@
 
 ![麦门贴贴](docs/stickers/img/hero.png)
 
-**[网页地址（待发布）→](https://huyanxius.github.io/maimen-tietie/)** 不用登录，答 5 道题，当场拿到一套贴纸。
+**[在线玩一下 →](https://huyanxius.github.io/maimen-tietie/)** 不用登录，答 5 道题，当场拿到一套贴纸。
 
-**当前验证范围：**问答模式、规范化示例订单、本地脚本及浏览器 PNG/ZIP 导出已完成验证；没有可用 Token，本次跳过真实麦当劳 MCP 联调。下方 MCP 调用流程是已实现的 Skill 工作流说明，不是已经成功调用的证据，也不代表已满足比赛的真实 MCP 使用资格。最终进度见 [plans/STATUS.md](plans/STATUS.md)。
+**当前验证范围：**问答模式、规范化示例订单、本地脚本及浏览器 PNG/ZIP 导出已完成验证；没有可用 Token，本次跳过真实麦当劳 MCP 联调。下方 MCP 调用流程是已实现的 Skill 工作流说明，不是已经成功调用的证据；官方参赛登记确认也不代表真实 MCP 联调已完成。最终进度见 [plans/STATUS.md](plans/STATUS.md)。
 
 麦门贴贴是一个基于[麦当劳 MCP](https://open.mcd.cn/mcp) 的 Skill。它读你最近的麦当劳订单，看出你的本命餐，以及你什么时候去、怎么点：总在早八前买麦满分，深夜才点鸡块，薯条每单都有……再把这些习惯画成一套纸贴纸，配上字，导出成可以直接加进微信的表情包。
 
@@ -82,7 +82,7 @@ python3 -m http.server 8000 -d docs
 
 ## 参赛说明
 
-本项目参加「麦当劳程序员创意开发大赛」，参赛声明见 [CONTEST_DECLARATION.md](./CONTEST_DECLARATION.md)，MCP 使用说明见 [MCP_INTEGRATION.md](./MCP_INTEGRATION.md)。
+本项目已收到「麦当劳程序员创意开发大赛」的[官方参赛成功回执](https://github.com/M-China/mcd-developer-innovation-challenge/issues/942#issuecomment-6304526424)。参赛声明见 [CONTEST_DECLARATION.md](./CONTEST_DECLARATION.md)，MCP 使用说明见 [MCP_INTEGRATION.md](./MCP_INTEGRATION.md)。真实麦当劳 MCP 联调仍未完成，Task 8 按要求跳过。
 
 同系列：[logo-to-stickers](https://github.com/huyanxius/logo-to-stickers)，把 logo 变成会干活的纸贴纸。
 
