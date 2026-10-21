@@ -1,6 +1,6 @@
 # 麦门贴贴进度
 
-更新时间：2026-10-21 07:50（北京时间）。开发、贴纸生成与首轮浏览器验证在云端完成；本机负责文件传输、使用已有 GitHub 认证发布和线上验收。
+更新时间：2026-10-21 11:40（北京时间）。开发、贴纸生成与首轮浏览器验证在云端完成；本机负责文件传输、使用已有 GitHub 认证发布和线上验收。
 
 ## 已完成
 
@@ -14,7 +14,7 @@
 ## 跳过
 
 - Task 8：没有可用的 MCD_MCP_TOKEN，按用户要求跳过。不索取或复制 Token，不编造真实订单、响应字段或联调结果。
-- 官方比赛要求真实使用 MCP；当前只证明网页与规范化输入流程可用，尚不能宣称已满足真实 MCP 使用资格。补充真实联调后再更新相关声明。
+- 官方已确认参赛登记成功，但该回执不构成真实 MCP 联调证据；当前只证明网页与规范化输入流程可用，真实联调仍待补充。
 
 ## 正式发布
 
@@ -23,11 +23,11 @@
 - 线上 Chrome 验收：390×844 手机问答走完五题，生成可乐 8 张；1280×800 桌面查看结果与首屏。两个宽度的页面 scrollWidth 均等于视口宽度，没有横向溢出。8 字配字“今天也要好好休息”完整显示。
 - 分享按钮显示复制成功；在新标签页打开生成的分享 URL，昵称、8 张贴纸及配字全部一致。
 - 实际线上导出 ZIP：8 张均为 240×240 RGBA PNG，alpha 范围为 0–255，最外圈像素全部透明，文件名保留配字。ZIP SHA-256：8013a2ce1f331d6c49e28a46b535b02a40adcd01acdbf328ba7aaa96ff0eb138。
-- 报名申请已提交：https://github.com/M-China/mcd-developer-innovation-challenge/issues/942 。正文明确披露 Task 8 因无 Token 跳过、真实 MCP 尚未联调，不宣称已满足真实 MCP 使用资格。截至本次记录，尚未收到机器人回执，报名结果仍待确认。
+- 报名申请：https://github.com/M-China/mcd-developer-innovation-challenge/issues/942 。官方账号 M-China-Official 已[确认作品成功参赛](https://github.com/M-China/mcd-developer-innovation-challenge/issues/942#issuecomment-6304526424)。申请正文仍明确披露 Task 8 因无 Token 跳过、真实 MCP 尚未联调，不将参赛登记确认写成真实联调完成。
 - 官方声明及活动规则与用户已确认的 242362e994c252ccdb0ebdd0fd78fd410efa7c78 版本完全一致。CONTEST_DECLARATION.md 保持原样。
 - 本机使用新的隔离目录恢复和发布，没有覆盖原始项目目录，没有复制认证资料或要求重新登录。公开后的文档更新通过正常分支和 PR 提交。
-- 文档记录 PR：https://github.com/huyanxius/maimen-tietie/pull/1 。截至本次记录，PR 保持打开、尚未合入 main；README 的上线标识与本状态更新可在该 PR 分支查看。
-- 本机工作日志条目已准备；写入审批未通过，尚未写入。PR 合并同样未获审批，需明确授权后继续；本次不把这两项记为完成。
+- 文档记录 PR：https://github.com/huyanxius/maimen-tietie/pull/1 ，范围仅为 README.md 和 plans/STATUS.md。
+- 本机工作日志已在分隔线下新增一行上线及参赛确认记录；写入后回读核验，其余内容保持不变。
 
 ## 用户醒来后
 
